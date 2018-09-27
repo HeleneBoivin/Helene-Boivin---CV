@@ -1,0 +1,76 @@
+/* div {
+float: left;
+} */
+
+.page{
+  margin: auto;
+  font-size: 16px;
+  font-family: sans-serif;
+  }
+
+#Titre {
+  text-decoration: underline;
+  text-align: center;
+}
+body {
+  background-image: url("home/boivin/CV_numérique/images2.jpeg");
+}
+a {
+  float: right;
+}
+
+h2{
+  color: blue;
+}
+h3{
+  color: blue;
+}
+h4{
+  color: black;
+}
+#sectiongauche {
+  float: left;
+  width: 25%;
+}
+
+#sectiondroite {
+  float: left;
+  width: 65%;
+}
+
+#contact {
+
+  margin-left: 10%;
+  margin-top: 20%;
+
+}
+
+#divers {
+  margin-left: 10%;
+  margin-top: 40%;
+  font-style: italic;
+  color: grey;
+}
+
+.Détails {
+  margin-top:5%;
+  margin-bottom: 2%;
+  margin-right: 10%;
+  padding: 2%
+}
+
+.flex-container {
+  display: flex;
+  align-items: center;
+
+}
+
+.flex-container1 {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-container2 {
+  display: flex;
+  flex-direction: column;
+}
